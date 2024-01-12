@@ -23,4 +23,6 @@ Here are some ideas to get you started:
 
  📫 You can find me at LinkedIn: https://www.linkedin.com/in/gabriel-jesus-19953115a/?locale=en_US
 
+ 🧠 Knowledge: 🐍,🐘,☕,🐳, ☁ (Aws)
+
  ⚙ Improving
