@@ -3,6 +3,8 @@
 <p><em>Software Enginner at <a href="https://www.itau.com.br">Itau Unibanco  </a><img src="https://media.giphy.com/media/QxAju7V303f38OUyi6/giphy.gif" width="20"></em></p>
 
 [![Linkedin: GabrielJesus](https://img.shields.io/badge/-Gabriel_Jesus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-jesus-19953115a/?locale=en_US)](https://www.linkedin.com/in/gabriel-jesus-19953115a/?locale=en_US)
+[![Outlook Badge](https://img.shields.io/badge/-gabrielthe13@hotmail.com-006bed?style=flat-square&logo=Outlook&logoColor=white&link=mailto:gabrielthe13@hotmail.com)](mailto:gabrielthe13@hotmail.com)
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)]([https://github.com/gljooj](https://github.com/gljooj))
 
 <!--
 **gljooj/gljooj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -64,9 +66,3 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gljooj&theme=dracula&show_icons=true" />
 </a>
 
-## How to reach me
-
-[![Linkedin: GabrielJesus](https://img.shields.io/badge/-Gabriel_Jesus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-jesus-19953115a/?locale=en_US)](https://www.linkedin.com/in/gabriel-jesus-19953115a/?locale=en_US)
-
-[![Outlook Badge](https://img.shields.io/badge/-gabrielthe13@hotmail.com-006bed?style=flat-square&logo=Outlook&logoColor=white&link=mailto:gabrielthe13@hotmail.com)](mailto:gabrielthe13@hotmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)]([LINK-DO-SEU-GITHUB](https://github.com/gljooj))
