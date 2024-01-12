@@ -4,7 +4,7 @@
 
 [![Linkedin: GabrielJesus](https://img.shields.io/badge/-Gabriel_Jesus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-jesus-19953115a/?locale=en_US)](https://www.linkedin.com/in/gabriel-jesus-19953115a/?locale=en_US)
 [![Outlook Badge](https://img.shields.io/badge/-gabrielthe13@hotmail.com-006bed?style=flat-square&logo=Outlook&logoColor=white&link=mailto:gabrielthe13@hotmail.com)](mailto:gabrielthe13@hotmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)]([https://github.com/gljooj](https://github.com/gljooj))
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/gljooj)
 
 <!--
 **gljooj/gljooj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
