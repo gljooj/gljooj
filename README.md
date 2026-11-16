@@ -1,68 +1,54 @@
-### Hi there, I'm Gabriel👋
+<h1 align="center">Hi, I'm Gabriel 👋</h1>
+<p align="center">
+  <b>Tech Lead & Software Engineer</b> · Generative AI · Java · Cloud (AWS / Azure)<br>
+  São Paulo, Brazil
+</p>
 
-<p><em>Software Enginner at <a href="https://www.itau.com.br">Itau Unibanco  </a><img src="https://media.giphy.com/media/QxAju7V303f38OUyi6/giphy.gif" width="20"></em></p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabriel-jesus-19953115a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
 
-[![Linkedin: GabrielJesus](https://img.shields.io/badge/-Gabriel_Jesus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-jesus-19953115a/?locale=en_US)](https://www.linkedin.com/in/gabriel-jesus-19953115a/?locale=en_US)
-[![Outlook Badge](https://img.shields.io/badge/-gabrielthe13@hotmail.com-006bed?style=flat-square&logo=Outlook&logoColor=white&link=mailto:gabrielthe13@hotmail.com)](mailto:gabrielthe13@hotmail.com)
-[![GitHub](https://img.shields.io/github/followers/gljooj?label=follow&style=social)](https://github.com/gljooj)
+---
 
-<!--
-**gljooj/gljooj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
 
-Here are some ideas to get you started:
+I work where traditional software engineering meets generative AI. I'm currently a **Tech Lead at Bradesco**, one of Brazil's largest banks. There I build **AI agents** that write and review code, so the team ships faster without losing quality. In 2025 I was named **AI Champion** at the TechBrad IA event.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![](https://komarev.com/ghpvc/?username=gljooj&color=006bed)
+Before that, I spent 4 years at **Itaú Unibanco** as API Owner and Team Lead on asset custody systems that handle **4B+ requests per month**. I was also one of the first engineers in the **Devin AI** pilots, where we used it to migrate projects at scale.
 
-## About me
+- 🤖 **AI agents & DevEx**: code generation, automated code review, unit test generation, architecture compliance checks
+- 🧠 **Prompt engineering**: LLM prompts that have to be accurate, safe and aware of the engineering workflow around them
+- ☕ **Backend**: Java (Spring Boot) and Python, microservices, API design, messaging, idempotency
+- ☁️ **Cloud**: AWS and Azure, infrastructure as code with Terraform, observability and FinOps
 
-- 🤔 I am a software developer with a passion for creating innovative and impactful digital solutions. With over 5 years of experience in the technology field, I have embarked on a diverse and challenging professional journey that has allowed me to enhance my technical skills.
-- 🔭 Currently, I am a Software Engineer at Itaú Unibanco, where I remain committed to exploring new technologies and driving cloud adoption. My responsibilities encompass not only technical development but also suggesting improvements and contributing to infrastructure and architecture discussions. I am an advocate of best practices and play a role in providing valuable enhancement suggestions to my team's API projects. My experience includes working with technologies like Python, Docker, and various AWS services such as Lambdas, SQS, Dynamodb, S3, CloudFormation, and APIGateway. My emphasis on observability, unit testing, and architectural design reflects my dedication to quality and excellence.
-- 🎓 information systems degreed.
-- 💼 Software Engineer at Itaú Unibanco.
-- 🌱 Currently learning more about Java Spring Boot and improvement my knowledge of python and Aws Services.
+### Tech stack
 
-## Skills
+**Languages**<br>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-**Data & Application**
+**Cloud & DevOps**<br>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=for-the-badge&logo=mysql&logoColor=white)
+**Observability**<br>
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
-**Utilidades**
+**AWS day to day:** Lambda · SQS · DynamoDB · ECS · S3 · RDS · Athena · Glue · API Gateway
 
-![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=for-the-badge&logo=insomnia&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=for-the-badge&logo=postman&logoColor=white)
+### Experience
 
-**DevOps & Cloud**
+| Period | Company | Role |
+|---|---|---|
+| 2025 – now | **Bradesco** | Tech Lead · Software Engineer: AI agents, Java, Azure |
+| 2021 – 2025 | **Itaú Unibanco** | Software Engineer · API Owner · Team Lead: AWS, high-scale systems, AI |
+| 2019 – 2021 | **Menu.com.br** (Z-Tech / AB InBev) | Software Engineer: ERP integrations, Python/Django, AWS |
+| 2018 – 2019 | **Fullhub** | Web Developer: ERP integrated with online marketplaces (PHP/Laravel) |
 
-![Aws](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=for-the-badge&logo=bitbucket&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=for-the-badge&logo=docker&logoColor=white)
-![Travis](https://img.shields.io/badge/-Travis-333333?style=for-the-badge&logo=travis&logoColor=white)
+---
 
-**Development Tools**
-
-![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white)
-![Intellij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-
-<br/>
-
-<a href="https://github.com/gljooj" title="Perfil do Iuri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gljooj&theme=dracula&show_icons=true" />
-</a>
-
+<p align="center"><i>Always happy to talk about AI agents, software architecture and developer experience.</i></p>
